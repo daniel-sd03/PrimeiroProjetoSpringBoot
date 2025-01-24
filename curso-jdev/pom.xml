@@ -81,11 +81,12 @@
       <scope>test</scope>
     </dependency>
     
-    <dependency>
+	<dependency>
 	    <groupId>org.postgresql</groupId>
 	    <artifactId>postgresql</artifactId>
-	    <version>9.4.1212</version>
+	    <version>42.6.0</version>
 	</dependency>
+
   </dependencies>
 
   <build>
